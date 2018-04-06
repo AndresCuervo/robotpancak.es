@@ -1,17 +1,20 @@
 require('aframe')
-
-require('aframe-animation-component')
-// require('aframe-extras.ocean')
-require('aframe-gradient-sky')
-require('aframe-particle-system-component')
-require('super-hands');
-
-require('aframe-gradient-sky')
+//
+// require('aframe-animation-component')
+// // require('aframe-extras.ocean')
+// require('aframe-gradient-sky')
+// require('aframe-particle-system-component')
+//
+// require('aframe-gradient-sky')
 require('aframe-physics-system')
 require('aframe-event-set-component')
 require('aframe-physics-extras')
 require('aframe-environment-component')
 require('aframe-template-component')
+
+// TODO: When next version of super-hands gets published this can be updated
+// (as of today, April 6, 2018, the npm version is 5 months out of date, so I'm using a script to the git version)
+// require('super-hands');
 
 console.log("hello world");
 
