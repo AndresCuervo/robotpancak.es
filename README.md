@@ -27,8 +27,8 @@ parcel build index.html --out-dir docs --public-url "."
 
 ## Inspiration:
 
-![image](http://andrescuervo.github.io/robotpancak.es/assets/readme-pictures/pancake-printer-robot.jpg)
-![image](http://andrescuervo.github.io/robotpancak.es/assets/readme-pictures/pancake-robot-460x392.jpg)
-![image](http://andrescuervo.github.io/robotpancak.es/assets/readme-pictures/pancake-stacking-robot.jpg)
-![image](http://andrescuervo.github.io/robotpancak.es/assets/readme-pictures/parry-gripp-robot.jpg)
-![image](http://andrescuervo.github.io/robotpancak.es/assets/readme-pictures/reinforcment-learning-robot.jpg)
+![3D printer style pancake robot](https://github.com/AndresCuervo/robotpancak.es/raw/master/assets/readme-pictures/pancake-printer-robot.jpg)
+![Pancake making humanoid robot](https://github.com/AndresCuervo/robotpancak.es/raw/master/assets/readme-pictures/pancake-robot-460x392.jpg)
+![Pancake stacking robot over a table of pancakes](https://github.com/AndresCuervo/robotpancak.es/raw/master/assets/readme-pictures/pancake-stacking-robot.jpg)
+![Parry Grip pancake robot](https://github.com/AndresCuervo/robotpancak.es/raw/master/assets/readme-pictures/parry-gripp-robot.jpg)
+![Reinforcement learning robotic arm learning to flip pancakes](https://github.com/AndresCuervo/robotpancak.es/raw/master/assets/readme-pictures/reinforcment-learning-robot.jpg)
